@@ -11,4 +11,4 @@ Você pode receber atualizações do Fórum no seu email ou via notificações d
 
 ## Licença
 
-[MIT](LICENSE.md) &copy; Open School Brasil
+[MIT](LICENSE) &copy; Open School Brasil
