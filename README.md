@@ -1,5 +1,5 @@
-# Fórum
-:loudspeaker: Fórum para discussões/dúvidas/sugestões a respeito da Open School Brasil.
+# :loudspeaker: Fórum
+Repositório para discussões/dúvidas/sugestões a respeito da Open School Brasil, através das [issues](https://github.com/openschoolbr/forum/issues).
 
 ## Como receber atualizações do Fórum
 
