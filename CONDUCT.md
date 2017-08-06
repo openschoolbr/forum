@@ -53,6 +53,16 @@ O desrespeito √†s regras desta comunidade, descritas nesse documento, acarretar√
 * [Luiz Felipe de Oliva Limeira](https://github.com/lflimeira)
 * [Rodrigo Muniz](https://github.com/muniz95)
 * [William Oliveira](https://github.com/woliveiras)
+* [Danilo Vaz](https://github.com/danilovaz)
+* [Jamile Lima](https://github.com/JamileLima)
+* [Karina Figueira](https://github.com/karinafigueira)
+* [Locas Santos](https://github.com/khaosdoctor)
+* [Kevin Oliveira](https://github.com/kvnol)
+* [Laris. Mourullo](https://github.com/larismourullo)
+* [Fernando Moreira](https://github.com/nandomoreirame)
+* [Wendell Adriel](https://github.com/WendellAdriel)
+* [William Correa](https://github.com/wilcorrea)
+* [Yuri Oliveira](https://github.com/yuriploc)
 
 ---
 
